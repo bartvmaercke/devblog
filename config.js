@@ -1,17 +1,15 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Blog', // Required
+  author: 'Bart vm', // Required
+  description: 'geeky adeventurer',
   primaryColor: '#3498db', // Required
-  showHeaderImage: true,
+  showHeaderImage: false,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    twitter: 'https://twitter.com/Bart_vm',
+    linkedin: 'https://www.linkedin.com/in/bart-van-maercke',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://github.com/bartvmaercke/devblog',
 };
