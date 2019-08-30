@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Blog', // Required
   author: 'Bart vm', // Required
-  description: 'geeky adeventurer',
+  description: 'geeky adventurer',
   primaryColor: '#3498db', // Required
   showHeaderImage: false,
   showShareButtons: true,
