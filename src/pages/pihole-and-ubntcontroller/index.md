@@ -1,6 +1,6 @@
 ---
 title: Instal pihole and ubntcontroller
-date: "2019-08-30"
+date: "2019-08-31"
 ---
 
 goal: use an oldraspberry pi I had laying around as a pi-hole and ubiquity controller.

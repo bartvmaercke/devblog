@@ -1,6 +1,6 @@
 ---
 title: Hello world
-date: "2019-08-31"
+date: "2019-08-30"
 featuredImage: './featured.jpg'
 ---
 
