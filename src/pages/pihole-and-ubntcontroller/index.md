@@ -7,7 +7,7 @@ goal: use an oldraspberry pi I had laying around as a pi-hole and ubiquity contr
 
 <!-- end -->
 
-## create the pi-hole
+## Create the pi-hole
 
 download latest raspbian lite from  
 <https://downloads.raspberrypi.org/raspbian_lite_latest>  
@@ -58,7 +58,7 @@ IGNORE_LOCALHOST=yes
 MAXDBDAYS=30
 ```
 
-## install ubnt controller
+## Install ubnt controller
 
 Next step, installing my ubiquity controller.
 Some days had already passed and I wanted to be sure that everything was up to date, so did some upgrading
@@ -110,7 +110,7 @@ enabled ips and setup networks, vpn etc.
 Don't forget to point the dns to your pi-hole.  
 (I've also created a noip address and added that too)
 
-## setup a new controller on a newer pi
+## Setup a new controller on a newer pi
 
 Since the minimum requirements were not met for the ubnt controller, I decided to use an other pi and and see if i could recover the settings from the backup.
 
