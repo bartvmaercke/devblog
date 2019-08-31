@@ -45,7 +45,7 @@ sudo bash basic-install.sh
 And we just run trough the install script
 Don't forget to note password it displays, you'll need that to go to the webportal
 
-Just to be sure that it was running properly, I rebooted. Not needed. I know. 
+Just to be sure that it was running properly, I rebooted. Not needed. I know.
 
 ```bash
 reboot
@@ -90,11 +90,11 @@ sudo apt-get install unifi -y
 Don't need mongodb
 
 ```bash
-sudo systemctl stop mongodb 
+sudo systemctl stop mongodb
 sudo systemctl disable mongodb
 ```
 
-rebooted for the fun of it 
+rebooted for the fun of it
 
 ```bash
 sudo reboot
