@@ -13,8 +13,8 @@ download latest raspbian lite from
 <https://downloads.raspberrypi.org/raspbian_lite_latest>  
 flash sd card with rufus, create ssh file in boot partition, insert in pi, boot, log in with default username.
 
-username: pi
-password: raspberry
+username: pi  
+password: raspberry  
 (hint: make new user and remove pi, or at least change the password to something secure)
 
 If you forgot to add the ssh file, you can still enable ssh from raspi-config is you have a screen attached:  
