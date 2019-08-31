@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Tech Blog', // Required
-  author: 'Bart V. M.', // Required
+  title: 'Bart Tech Blog', // Required
+  author: 'Barts Blog', // Required
   description: 'geeky adventurer',
   primaryColor: '#3498db', // Required
   showHeaderImage: false,

@@ -1,24 +1,22 @@
 ---
-title: Hello World
-date: "2018-06-30"
+title: Hello world
+date: "2019-08-31"
+featuredImage: './featured.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. 
+Welcome to my new blog, I hope you enjoy your stay!  
 
 <!-- end -->
 
-Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
+## Who am I
 
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis. Proin in tellus eu nisi dictum posuere eu id felis. Donec eget mi sit amet neque efficitur suscipit ut ut neque. Vivamus egestas, augue vitae vestibulum feugiat, lorem elit lobortis nulla, eget ornare arcu ipsum ac lacus. Proin a suscipit ligula, non facilisis nibh. Nunc et eros magna.
+I'm a simple tech enthousiast, who likes to mess around with tech things at work and at home.  I have some basic knowledge about microsoft technologies, linux, scripting, networking, etc.
 
->Aenean quis nisi eros. Praesent a libero et ante sagittis dictum eget id ipsum. Duis sit amet bibendum justo. Morbi faucibus vehicula bibendum. Praesent ornare hendrerit commodo. Praesent sit amet nisi mauris. Aenean maximus pharetra lacinia. Praesent efficitur erat id dolor laoreet rhoncus. Cras eu efficitur arcu. Nunc pretium, nunc sit amet rutrum molestie, arcu nisi tempus ligula, eu dapibus leo tortor in quam.
+## Why I started this blog
 
-Vivamus viverra id ipsum nec hendrerit. Fusce mollis enim et ultricies varius. Nam at dictum augue, id dictum augue. Fusce laoreet purus id iaculis cursus. Donec non velit est. Integer pellentesque viverra sapien, id rhoncus ipsum dictum ac. Aliquam vel maximus tortor, vitae interdum turpis. Etiam egestas elementum massa, id dictum magna suscipit vel. Curabitur mi tellus, pharetra eget nisi vitae, blandit vulputate nibh. Aenean tincidunt purus eu feugiat pulvinar. Maecenas quis laoreet lorem, a molestie urna. Cras iaculis justo elit, nec venenatis ante sollicitudin a. Cras eu pellentesque arcu, sit amet auctor felis.
+Simple, I wanted to mess around with some static site generators and learn some git.  
+And also to have some sort of documentation for myself. When writing down the steps I took to solve an issue, it helps me to remember those steps in the future. Since we're always learning in the field we are in, it couldn't hurt to improve my learning capibilities.
 
-```javascript
-$(document).ready(function() {
-    console.log('Welcome!');
-})
-```
+## What will this be about
 
-Curabitur non blandit dui. Maecenas in ipsum nec leo pellentesque sodales et nec quam. Ut ut facilisis metus, sit amet aliquam nibh. Quisque blandit dui quis augue dictum vehicula.
+All the things I wanna learn. Improving my home network and automate some things. Implement some new tools to make my life easier or more secure. Find practical things to use the cloud for. Play around with some home made gadgets.
